@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: #222;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button {
+    margin: 2rem;
+    padding: 1rem;
+}
+
+h2 {
+    text-align: center;
+    color: #222;
+}
+
+table {
+    align-items: center;
+    justify-content: center;
+    margin: 1rem;
+}
+
+tbody {
+    margin: 1rem;
+}
+

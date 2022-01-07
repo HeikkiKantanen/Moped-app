@@ -1,0 +1,52 @@
+[
+    {
+        "id": 7,
+        "name": "Xross 3",
+        "modelYear": 2011,
+        "itemsInStock": 70,
+        "topSpeed": 5
+    },
+    {
+        "id": 4,
+        "name": "MaxNoise 120",
+        "modelYear": 2015,
+        "itemsInStock": 30,
+        "topSpeed": 20
+    },
+    {
+        "id": 2,
+        "name": "Daddy 1",
+        "modelYear": 1995,
+        "itemsInStock": 150,
+        "topSpeed": 30
+    },
+    {
+        "id": 6,
+        "name": "Skooter 95",
+        "modelYear": 2000,
+        "itemsInStock": 100,
+        "topSpeed": 25
+    },
+    {
+        "id": 1,
+        "name": "Grampa 89",
+        "modelYear": 2017,
+        "itemsInStock": 350,
+        "topSpeed": 15
+    },
+    {
+        "id": 5,
+        "name": "Mummy 10",
+        "modelYear": 2005,
+        "itemsInStock": 50,
+        "topSpeed": 123
+    },
+    {
+        "id": 3,
+        "name": "MotoX 2000",
+        "modelYear": 2010,
+        "itemsInStock": 130,
+        "topSpeed": 10
+    },
+    "13"
+]
