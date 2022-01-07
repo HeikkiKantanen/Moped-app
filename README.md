@@ -6,10 +6,10 @@
 
 - With this app you are able to: 
     - retrieve list of all stored mopeds 
-    - retrieve spesific moped with the moped id
+    - retrieve a spesific moped with the moped id
     - add new mopeds to the existing list 
     - update the mopeds data 
-    - delete spesific moped
+    - delete a spesific moped
 
 ## Technologies and tools used
 
